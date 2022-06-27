@@ -2,7 +2,7 @@
 
 ## 📣 Getting Started
 
-1. clone the repository: `git clone https://github.com/devslopes/git-pr-assignment`
+1. clone the repository: `git clone https://github.com/devslopes/devslopes-git-pr-assignment`
 2. Create a `.gitignore` file
 3. Create a `.env.local` file and copy/paste the following into it:
 
@@ -26,10 +26,10 @@ CONTENTFUL_ACCESS_TOKEN=givejkW9NU_xGGTZxME-xUXTHE-XMgg711codesj4pN
 ## 📝 Instructions
 
 1. Update the `.gitignore` file to ignore OS generated files/folders and files with sensitive data
-2. As you make changes to this project, be mindful of the requirements.
-3. Create a remote repository for this project on Github.
+2. As you make changes to this project, be mindful of the requirements
+3. Create a remote repository for this project on Github
 4. Push this repository from the command line to Github.
-   **NOTE:**: When adding this repository to Github, you will need to replace the word `origin` with `destination` (or any other word you wish to use). This is because the remote repository you cloned is already using the name, `origin`.
+   **NOTE:**: When adding this repository to Github, you will need to replace the word `origin` with `destination` (or any other word you wish to use). This is because the remote repository you cloned is already using the name, `origin`
 
 ```
 git remote add destination <your_github_repo_url>
@@ -60,4 +60,4 @@ h2 { color: blue; }
 7. Commit your changes locally. Your commit message should have a subject line and body. It should follow the 7 commit message convention guidelines
 8. Push this branch to your remote repository. (This will create a new remote branch). Remember, when you push your code, don't use "origin". Use `destination` (or the whatever word you chose to use when you set up the remote repo)
 9. Create a Pull Request for this branch to be merged into `main`
-10. To submit your assignment, put the URL of your GitHub repository in a `.txt` file, zip the file and then upload it here so we can verify the commit history is correct. A Devslopes mentor will review your PR (Pull Request), comment as necessary and reject or approve your PR
+10. To submit your assignment, put the URL of your GitHub repository in a `.txt` file, zip the file and then upload it through your student portal so we can verify the commit history is correct. A Devslopes mentor will review your PR (Pull Request), comment as necessary and reject or approve your PR
