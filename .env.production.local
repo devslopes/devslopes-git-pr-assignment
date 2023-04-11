@@ -1,0 +1,1 @@
+SENTRY_DSN=https://1eb0a2142.ingest.sentry.io/711007
