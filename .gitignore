@@ -1,0 +1,20 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore sensitive data files
+.env.local
+.env.production.local
+
+# IgnoreIDE and editor-specific files
+.vscode/
+*.suo
+*.user
+
+# Ignore logs
+*.logs
+
+# Ignore build tools
+dist/
+build/
